@@ -1,6 +1,7 @@
 # My Website
 
 This really awesome website
+I totally understand
 
 Updates made on master on Github before rebase
 
